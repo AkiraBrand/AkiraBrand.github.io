@@ -11,7 +11,7 @@ Hey there, I'm Akira. I'm a software developer, currently spending the bulk of m
 
 I've given talks! Like:
 
-Build Your Own Cloud Gaming PC using AWS EC2 services, Bend JavaScript
+- Build Your Own Cloud Gaming PC using AWS EC2 services, Bend JavaScript
 
 - [Refactoring in Ruby (starts at 4:30), Bend JavaScript](https://www.youtube.com/watch?v=oii16rgOOYw)
 
