@@ -3,21 +3,21 @@ layout: default
 title: Home
 ---
 
-## About Me
+### About Me
 
 Hey there, I'm Akira. I'm a software developer, currently spending the bulk of my time building out frontend UI interfaces with CSS and HTML, figuring out the mysteries of NodeJS, and creating excellent UX design.
 
-## Talks I've given
+### Talks I've given
 
 I've given talks! Like:
 
-- [Refactoring in Ruby (starts at 4:30), Bend JavaScript](https://www.youtube.com/watch?v=oii16rgOOYw)
+- [Refactoring in Ruby, Bend JavaScript](https://youtu.be/oii16rgOOYw?t=258)
 
 - [10 Simple Rules to Not Go Batshit Crazy when Working from Home](https://www.dropbox.com/s/mhob2htsxi22sfu/10%20Rules%20To%20No%20Go%20Batshit%20Crazy%20When%20WFH.key?dl=0)
 
 * Build Your Own Cloud Gaming PC using AWS EC2 services, Bend JavaScript (sorry, no link here!)
 
-## Stuff I've written
+### Stuff I've written
 
 - [Basic AND Logic Gates, Distilled](https://medium.com/@akirabrand/basic-and-logic-gates-distilled-c404f18a3d43)
 
