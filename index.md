@@ -11,11 +11,11 @@ Hey there, I'm Akira. I'm a software developer, currently spending the bulk of m
 
 I've given talks! Like:
 
-Build Your Own Cloud Gaming PC using AWS EC2 services, Bend JavaScript 
+Build Your Own Cloud Gaming PC using AWS EC2 services, Bend JavaScript
 
 - [Refactoring in Ruby (starts at 4:30 min in), Bend JavaScript](https://www.youtube.com/watch?v=oii16rgOOYw)
 
-Working from Home without Losing your Mind, PSProducts Company Presentation
+- [10 Simple Rules to Not Go Batshit Crazy when Working from Home](https://www.dropbox.com/s/mhob2htsxi22sfu/10%20Rules%20To%20No%20Go%20Batshit%20Crazy%20When%20WFH.key?dl=0)
 
 ## Stuff I've written
 
