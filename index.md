@@ -30,13 +30,12 @@ I've given talks! Like:
 Alarmed by the steep uptick in domestic violence calls since the Covid-19 lockdown, myself and some friends are developing a secure
 web app to quickly match domestic violence victims with appropriate community resources based on their individual situation.  
 
-Tech stack:
+Tech stack:  
+
 NodeJS  
-
 Express  
-
-HTML/CSS/VanillaJS  
-
+HTML/CSS  
+VanillaJS  
 Postgres  
 
 
