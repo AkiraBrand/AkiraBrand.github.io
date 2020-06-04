@@ -24,3 +24,16 @@ I've given talks! Like:
 - [What *Is* WSGI?](https://medium.com/@akirabrand/what-is-wsgi-9835bf08ed7b)
 
 - [How to create a MySQL-Python connector, cursor, and run CRUD commands with MySQL](https://medium.com/@akirabrand/internship-day-four-command-line-queries-to-create-mysql-python-connector-cursor-and-run-crud-ce978d2f227f)
+
+### Works in progress
+
+Alarmed by the steep uptick in domestic violence calls since the Covid-19 lockdown, myself and some friends are developing a secure
+web app to quickly match domestic violence victims with appropriate community resources based on their individual situation.  
+
+Tech stack:
+NodeJS
+Express
+HTML/CSS/VanillaJS
+Postgres
+
+- [Check Out the GitHub Repo](https://github.com/Haven-App/haven-backend)
