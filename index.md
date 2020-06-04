@@ -31,9 +31,13 @@ Alarmed by the steep uptick in domestic violence calls since the Covid-19 lockdo
 web app to quickly match domestic violence victims with appropriate community resources based on their individual situation.  
 
 Tech stack:
-NodeJS
-Express
-HTML/CSS/VanillaJS
-Postgres
+NodeJS  
+
+Express  
+
+HTML/CSS/VanillaJS  
+
+Postgres  
+
 
 [Check Out the GitHub Repo](https://github.com/Haven-App/haven-backend)
