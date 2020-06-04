@@ -5,7 +5,7 @@ title: Home
 
 ### About Me
 
-Hey there, I'm Akira. I'm a software developer, currently spending the bulk of my time building out frontend UI interfaces with CSS and HTML, figuring out the mysteries of NodeJS, and creating excellent UX design.
+Hey there, I'm Akira. I'm a software developer. I started my path in backend web development with Ruby and Rails, and I'm currently figuring out the mysteries of NodeJS, refining my CSS and JavaScript skills, and doing my best to not break the internet.
 
 ### Talks I've given
 
@@ -15,7 +15,7 @@ I've given talks! Like:
 
 - [10 Simple Rules to Not Go Batshit Crazy when Working from Home](https://www.dropbox.com/s/mhob2htsxi22sfu/10%20Rules%20To%20No%20Go%20Batshit%20Crazy%20When%20WFH.key?dl=0)
 
-* Build Your Own Cloud Gaming PC using AWS EC2 services, Bend JavaScript (sorry, no link here!)
+* Build Your Own Cloud Gaming PC using AWS EC2 services, Bend JavaScript (sorry, no link here! HMU and I'll teach you though :D )
 
 ### Stuff I've written
 
@@ -36,4 +36,4 @@ Express
 HTML/CSS/VanillaJS
 Postgres
 
-- [Check Out the GitHub Repo](https://github.com/Haven-App/haven-backend)
+[Check Out the GitHub Repo](https://github.com/Haven-App/haven-backend)
