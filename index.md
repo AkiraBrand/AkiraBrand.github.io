@@ -10,7 +10,7 @@ Hey there, I'm Akira! I'm a junior software developer, working with the usual su
 
 ### Find me around at:
 
-- [LinkedIn](www.linkedin.com/in/akirabrand)
+- [LinkedIn](https://www.linkedin.com/in/akirabrand/)
 
 - [GitHub](https://www.github.com/akirabrand)
 
