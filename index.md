@@ -5,7 +5,18 @@ title: Home
 
 ### About Me
 
-Hey there, I'm Akira. I'm a junior software developer, working with the usual suspects of NodeJS, Rails, and teaching myself the finer points of frontend design.  I also have worked in and hugely enjoyed unusual aspects of making awesome stuff with tech, like building my own cloud gaming PC, making music with Javascript, and growing gourmet mushrooms using a Raspberry Pi.  I love making life-enhancing projects that are aligned with the good life; good music, good food, good libations, and good friends; and am excited that code lets me have a direct impact on the quality of people's lives. I'm obsessed with good UX, and I think the web should not only be accessible but *usable* by everyone, regardless of cultural background or the color of their skin. 
+Hey there, I'm Akira! I'm a junior software developer, working with the usual suspects of NodeJS, Rails, Wordpress CRM, and I am teaching myself the finer points of frontend design.  I also hugely enjoy unusual aspects of making awesome stuff with tech, like building my own cloud gaming PC, using homemade logic gates to build an entire computer from scratch with virtual hardware, making music with Javascript and Ruby, and growing gourmet mushrooms with a Raspberry Pi.  I love making life-enhancing projects that are aligned with the good life; good music, good food, good libations, and good friends; and I'm stoked that code lets me have a direct impact on the quality of people's lives and that with code, and enough time and practice, I can make practically anything I can dream of. I'm obsessed with good UX, and I think the web should not only be accessible but *usable* by everyone, regardless of cultural background or the color of their skin.
+
+
+### Find me around at:
+
+- [LinkedIn](www.linkedin.com/in/akirabrand)
+
+- [GitHub](https://www.github.com/akirabrand)
+
+- [Twitter](https://www.twitter.com/AkiraMakes)
+
+- [Medium](https://www.medium.com/@akirabrand)
 
 ### Talks I've given
 
