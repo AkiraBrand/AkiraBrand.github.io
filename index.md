@@ -5,7 +5,7 @@ title: Home
 
 ### About Me
 
-Hey there, I'm Akira. I'm a software developer. I started my path in backend web development with Ruby and Rails, and I'm currently figuring out the mysteries of NodeJS, refining my CSS and JavaScript skills, and doing my best to not break the internet.
+Hey there, I'm Akira. I'm a junior software developer, working with the usual suspects of NodeJS, Rails, and teaching myself the finer points of frontend design.  I also have worked in and hugely enjoyed unusual aspects of making awesome stuff with tech, like building my own cloud gaming PC, making music with Javascript, and growing gourmet mushrooms using a Raspberry Pi.  I love making life-enhancing projects that are aligned with the good life; good music, good food, good libations, and good friends; and am excited that code lets me have a direct impact on the quality of people's lives. I'm obsessed with good UX, and I think the web should not only be accessible but *usable* by everyone, regardless of cultural background or the color of their skin. 
 
 ### Talks I've given
 
