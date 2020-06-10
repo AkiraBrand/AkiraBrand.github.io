@@ -22,7 +22,7 @@ I'm obsessed with good UX, and I think the web should not only be accessible but
 
 - [Twitter](https://www.twitter.com/AkiraMakes)
 
-- [Medium](https://www.medium.com/@akirabrand)
+- [Blog](https://www.medium.com/@akirabrand)
 
 ### Talks I've given
 
