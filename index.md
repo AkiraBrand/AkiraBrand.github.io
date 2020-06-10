@@ -14,7 +14,7 @@ I love making life-enhancing projects that are aligned with the good life; good 
 I'm obsessed with good UX, and I think the web should not only be accessible but *usable* by everyone, regardless of cultural background or the color of their skin.
 
 
-### Find me around at:
+### Find me on the web:
 
 - [LinkedIn](https://www.linkedin.com/in/akirabrand/)
 
@@ -26,7 +26,7 @@ I'm obsessed with good UX, and I think the web should not only be accessible but
 
 ### Talks I've given
 
-I've given talks! Like:
+I love teaching people what I've learned! Here's some talks where I do just that:
 
 - [Refactoring in Ruby, Bend JavaScript](https://youtu.be/oii16rgOOYw?t=258)
 
