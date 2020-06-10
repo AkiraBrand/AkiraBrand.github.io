@@ -32,7 +32,7 @@ I've given talks! Like:
 
 - [10 Simple Rules to Not Go Batshit Crazy when Working from Home](https://www.dropbox.com/s/mhob2htsxi22sfu/10%20Rules%20To%20No%20Go%20Batshit%20Crazy%20When%20WFH.key?dl=0)
 
-- [Build Your Own Cloud Gaming PC using AWS EC2 services], Bend JavaScript(https://medium.com/@akirabrand/build-a-gaming-pc-w-aws-5e68e7cd207c)
+- [Build Your Own Cloud Gaming PC using AWS EC2 services, Bend JavaScript](https://medium.com/@akirabrand/build-a-gaming-pc-w-aws-5e68e7cd207c)
 
 ### Stuff I've written
 
