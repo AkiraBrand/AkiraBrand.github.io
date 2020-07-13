@@ -5,7 +5,7 @@ title: Home
 
 ### About Me
 
-Hey there, I'm Akira! I'm a junior software developer, working with the usual suspects of NodeJS, Rails, Wordpress CRM, and I am teaching myself the finer points of frontend design.  
+Hey there, I'm Akira! I'm a software developer, working with the usual suspects of NodeJS, Rails, the Wordpress CRM, and I am teaching myself the finer points of frontend design and development.  
 
 I hugely enjoy unusual aspects of making awesome stuff with tech, like building my own cloud gaming PC, using homemade logic gates to build an entire computer from scratch with virtual hardware, making music with Javascript, and growing gourmet mushrooms with a Raspberry Pi.  
 
