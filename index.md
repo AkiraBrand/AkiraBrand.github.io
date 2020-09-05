@@ -5,15 +5,15 @@ title: Home
 
 ### About Me
 
-Hey there, I'm Akira!
+Hi! I'm Akira!
 
-I'm a software developer, working with the usual suspects of Ruby, Javascript, React, and Rails, and I'm learning the joys of server-side JS w/ Node and Deno.
+I'm a software developer. I work in Javascript, Ruby, React, and Rails, and I'm learning the joys of server-side JS w/ Node and Deno. Someday I'll learn Typescript. Maybe someday I'll even learn Assembly.
 
 I hugely enjoy unusual aspects of making awesome stuff with tech, like building my own cloud gaming PC, using homemade logic gates to build an entire computer from scratch with virtual hardware, making music with Javascript, and growing gourmet kitchen mushrooms with the help of a Raspberry Pi.
 
-I love to learn, and I love to learn in depth. There's nothing more pleasurable for me than going deep into a subject for an extended period of time, and resurfacing from those depths to make unique, creative work.
+I love to learn, and learn in-depth. There's nothing more pleasurable for me than going deep into a subject for an extended period of time, and resurfacing from those depths to make unique, creative work.
 
-I love to learn, share, and create, and you'll find all kinds of fun stuff here on my passions: tech, fermentation, reading, growing my own food, art, music, traditional plant medicine, philosophy, ethics, cultural explorations, economic theory, and being in the wilderness.
+I love to share and create, so here you'll find all kinds of tech resources as well as info on my passions: fermentation, reading, growing my own food, art, music, gestalt, theater, traditional plant medicine, philosophy, ethics, cultural explorations, economic theory, and being in the wilderness.
 
 AMA at akira.brand@yahoo.com
 
@@ -90,6 +90,7 @@ Postgres
 ### Blog Ideas
 
 - Crash course on collaborating on Github
+- Big refactor energy
 - How to be a good mentee
 - Lessons in the development process that I've learned from recovering from PTSD
 - The developer's search for meaning: How Merkle's existentialist writing applies to our work
