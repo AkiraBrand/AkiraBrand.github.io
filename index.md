@@ -155,7 +155,13 @@ Postgres
 - [The Origin of Javascript with Brandon Eich](https://web.archive.org/web/20150817165652/http://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich)
 - [Association for Computing Machinery aka the Library of all things Tech](https://dl.acm.org/doi/10.1145/3386327)
 
-### Portfolio design inspiration
+### Portfolio Design Inspiration
+
+coming soon!
+
+### Project Design Inspiration
+
+coming soon!
 
 ### The Best Blogs, Jerry, The Best!
 
