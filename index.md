@@ -15,7 +15,7 @@ I love making life-enhancing projects that are aligned with the good life; good 
 
 I also have fresh excitement of someone new to coding but seasoned enough to actually have seen my ideas come to fruition with it; its incredible to me that with enough time and practice, I can make practically anything I can dream up a reality with the help of technology. I'm mature enough to know that of course, I won't make everything I want to while I'm alive on this planet, but I'm relishing in the full experience of having so many varied and vast things that I can make using the tools I'm learning every day.
 
-I love to learn and I love to create, and you'll find all kinds of fun stuff here on my passions: tech, fermentation, reading, growing my own food, art, music, mental health, traditional plant medicine, philosophy, ethics, cultural explorations, economic theory, and being in the wilderness.
+I love to learn and I love to create, and you'll find all kinds of fun stuff here on my passions: all things tech related, fermentation, reading, growing my own food, art, music, traditional plant medicine, philosophy, ethics, cultural explorations, economic theory, and being in the wilderness.
 
 ### Find me on the web
 
@@ -47,8 +47,21 @@ I love teaching, and I'd love to teach your community something new! for worksho
 
 ### Works in progress
 
-Alarmed by the steep uptick in domestic violence calls since the Covid-19 lockdown, myself and some friends are developing a secure
-web app to quickly match domestic violence victims with appropriate community resources based on their individual situation.
+#### Tripsitters
+
+A communal guide to connect and educate those working legally in the Psychedelic space with people interested in using Psychadelics for therapeutic care and enhancing well-being.
+
+We are undergoing a massive redesign and rebuild of the Tripsitters website, and I'm lucky to be the development team lead. We're in a wonderful exploration phase right now, with an emphasis on leveraging the open web, leveraging incredible visual design, and encouraging and facilitating organic community involvement.
+
+If you have an interest in contributing to the project in any way, shape, or form, please do reach out to me at akira.brand@yahoo.com. Currently, this is a passion (ie non-paid) project for all of us, but depending on the future we may begin hiring for certain contract roles.
+
+We welcome new contributors from all spaces, not just tech.
+
+[Check out the current website](https://www.tripsitters.com)
+
+##### Haven
+
+Alarmed by the steep uptick in domestic violence calls since the Covid-19 lockdown, myself and some friends are developing a secure web app to quickly match domestic violence victims with appropriate community resources based on their individual situation.
 
 [Check Out the GitHub Repo](https://github.com/Haven-App/haven-backend)
 
