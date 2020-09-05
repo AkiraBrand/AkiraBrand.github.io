@@ -82,6 +82,7 @@ Postgres
 
 - Find your "why" to avoid burnout
 - How I translate code into human
+- The Hackathon, The Open Source, and The English Writing: how I use this trinity to build my tech skills
 
 ### Fun Ideas for small projects
 
@@ -109,6 +110,8 @@ Postgres
 [NodeJS](https://github.com/nodejs/nodejs.dev)
 
 [Mintbean CLI](https://github.com/Mintbean/mintbean-cli/issues?q=is%3Aopen+is%3Aissue)
+
+[We Watch Talks](https://github.com/amorriscode/wewatch.tech)
 
 ### Cool music and tech fusion stuff
 
@@ -180,3 +183,9 @@ coming soon!
 
 - [Grow them on Straw!](https://blog.freshcapmushrooms.com/learn/grow-at-home-how-to-grow-mushrooms-at-home-using-straw-logs/)
 - [Grow them in a Bucket!](https://www.youtube.com/watch?v=45b2t7fqhjA&feature=youtu.be)
+
+### Places to write
+
+If you like to write as much as I do, here are the places I've found who are currently accepting applications for contributors
+
+- [Twilio](https://docs.google.com/forms/d/e/1FAIpQLSefDUKl2v5vOx1lLOyqAEgFXjFwcf2Jwk_rkL4Yq9wK2v25-A/viewform)
