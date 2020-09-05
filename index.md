@@ -17,6 +17,8 @@ I also have fresh excitement of someone new to coding but seasoned enough to act
 
 I love to learn and I love to create, and you'll find all kinds of fun stuff here on my passions: all things tech related, fermentation, reading, growing my own food, art, music, traditional plant medicine, philosophy, ethics, cultural explorations, economic theory, and being in the wilderness.
 
+AMA at akira.brand@yahoo.com
+
 ### Find me on the web
 
 - [LinkedIn](https://www.linkedin.com/in/akirabrand/)
@@ -52,10 +54,6 @@ I love teaching, and I'd love to teach your community something new! for worksho
 A communal guide to connect and educate those working legally in the Psychedelic space with people interested in using Psychadelics for therapeutic care and enhancing well-being.
 
 We are undergoing a massive redesign and rebuild of the Tripsitters website, and I'm lucky to be the development team lead. We're in a wonderful exploration phase right now, with an emphasis on leveraging the open web, leveraging incredible visual design, and encouraging and facilitating organic community involvement.
-
-If you have an interest in contributing to the project in any way, shape, or form, please do reach out to me at akira.brand@yahoo.com. Currently, this is a passion (ie non-paid) project for all of us, but depending on the future we may begin hiring for certain contract roles.
-
-We welcome new contributors from all spaces, not just tech.
 
 [Check out the current website](https://www.tripsitters.com)
 
@@ -94,7 +92,8 @@ Postgres
 
 ### Cool music and tech fusion stuff
 
-[Audio Mass](https://audiomass.co/)
+- [Audio Mass](https://audiomass.co/)
+- [Make Your own Brian Eno Cover with Javascript](https://teropa.info/blog/2016/07/28/javascript-systems-music.html)
 
 ### Decentralized Web Goodness
 
@@ -112,3 +111,13 @@ Postgres
 ### Cool workflow/management tools
 
 [Remote Retro](https://remoteretro.org/)
+
+### ALL the JS runtime environments!
+
+- [Babel](bableljs.io)
+- [Repl](https://repl.it/~)
+- [RunJS](https://runjs.dev/)
+
+### My Fave JS Libararies
+
+- [Parallax, 3D goodness](http://matthew.wagerfield.com/parallax/)
