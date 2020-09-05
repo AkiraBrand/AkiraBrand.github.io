@@ -159,6 +159,12 @@ Postgres
 - [The Origin of Javascript with Brandon Eich](https://web.archive.org/web/20150817165652/http://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich)
 - [Association for Computing Machinery aka the Library of all things Tech](https://dl.acm.org/doi/10.1145/3386327)
 
+### Writing HTML and CSS that doesn't Suck
+
+- [Clean HTML Best Practices](https://medium.com/@sergimarquez/8-best-practices-to-write-clean-html-code-1cd407e2a7ec)
+- [MDN HTML overview](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [Check if Markup is Valid](https://validator.w3.org/#validate_by_uri)
+
 ### Portfolio Design Inspiration
 
 coming soon!
