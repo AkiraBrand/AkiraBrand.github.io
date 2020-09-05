@@ -132,7 +132,8 @@ Postgres
 
 ### Cool workflow/management Tools
 
-[Remote Retro](https://remoteretro.org/)
+- [Remote Retro](https://remoteretro.org/)
+- [Dev Docs, amazing documentation library for tons of languages](https://devdocs.io/)
 
 ### ALL the JS Runtime Environments!
 
