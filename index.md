@@ -15,7 +15,7 @@ I love to learn, and learn in-depth. There's nothing more pleasurable for me tha
 
 I love to share and create, so here you'll find all kinds of tech resources as well as info on my passions: fermentation, reading, growing my own food, art, music, gestalt, theater, traditional plant medicine, philosophy, ethics, cultural explorations, economic theory, and being in the wilderness.
 
-AMA at akira.brand@yahoo.com
+AMA on [twitter](https://www.twitter.com/akiramakes)!
 
 ### Find me on the web
 
@@ -175,6 +175,7 @@ coming soon!
 - [Code Cartoons](https://code-cartoons.com/)
 - [Dan Abrimov](https://overreacted.io/)
 - [Twirling Tech Goddess](https://www.youtube.com/watch?v=9pQmwvn147I)
+- [Joel Hooks](https://joelhooks.com/)
 
 ### Supercharge Your Learning
 
