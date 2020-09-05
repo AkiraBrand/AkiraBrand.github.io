@@ -126,7 +126,7 @@ Postgres
 - [IPFS, p2p file stroage](https://ipfs.io/)
 - [Scuttlebutt, decentralized, p2p social media](https://scuttlebutt.nz/)
 - [How IFPS works](https://docs.ipfs.io/concepts/how-ipfs-works/#content-addressing)
-- - [Get Involved With The Etherium Community](https://ethereum.org/en/community/)
+- [Get Involved With The Etherium Community](https://ethereum.org/en/community/)
 - [How the Decentralized Web Works](https://datatogether.org/posts/05_dweb_primer/)
 - [Decentralized Web Seattle](https://twitter.com/DwebSeattle)
 - [17 Blockchain Apps That are Transforming Society](https://blockgeeks.com/guides/blockchain-applications/)
