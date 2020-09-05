@@ -39,7 +39,7 @@ I love teaching people what I've learned! Here's some talks where I do just that
 
 - [Build Your Own Cloud Gaming PC using AWS EC2 services, Bend JavaScript](https://medium.com/@akirabrand/build-a-gaming-pc-w-aws-5e68e7cd207c)
 
-I love teaching, and I'd love to teach your community something new! HMU at akira.brand@yahoo.com and I'd love to come teach you or your people something fun!
+I'd love to teach your community something new! HMU at akira.brand@yahoo.com for workshops/speaking!
 
 ### Stuff I've written
 
@@ -49,17 +49,17 @@ I love teaching, and I'd love to teach your community something new! HMU at akir
 
 - [How to create a MySQL-Python connector, cursor, and run CRUD commands with MySQL](https://medium.com/@akirabrand/internship-day-four-command-line-queries-to-create-mysql-python-connector-cursor-and-run-crud-ce978d2f227f)
 
-I WANT TO WRITE FOR YOU! I <3 sharing knowledge, hmu at akira.brand@yahoo.com if you'd like a new contributor!
+I WANT TO WRITE FOR YOU! I <3 sharing knowledge, HMU at akira.brand@yahoo.com if you'd like a new contributor!
 
 ### Works in progress
 
 #### Tripsitters
 
-A communal guide to connect and educate those working legally in the Psychedelic space with people interested in using Psychadelics for therapeutic care and enhancing well-being.
+A communal guide to connect and educate those working legally in the Psychedelic space with people interested in using Psychedelics for therapeutic care and enhancing well-being.
 
 We are undergoing a massive redesign and rebuild of the Tripsitters website, and I'm lucky to be the development team lead. We're in a wonderful exploration phase right now, with an emphasis on leveraging the open web, leveraging incredible visual design, and encouraging and facilitating organic community involvement.
 
-[Check out the current website](https://www.tripsitters.com)
+[Check out our current website](https://www.tripsitters.com)
 
 ##### Haven
 
@@ -79,6 +79,8 @@ Postgres
 
 - Make any picture into cake w/ CSS (Because everything is cake. Always has been.)
 - How to talk to strangers
+- Build your own personal site with Jekyll
+- Build a 3d photo gallery w/ parallax.js
 
 ### Fun Ideas for Lightning Talks
 
