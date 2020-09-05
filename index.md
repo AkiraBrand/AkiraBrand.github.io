@@ -208,3 +208,9 @@ If you like to write as much as I do, here are the places I've found who are cur
 - [Twilio](https://docs.google.com/forms/d/e/1FAIpQLSefDUKl2v5vOx1lLOyqAEgFXjFwcf2Jwk_rkL4Yq9wK2v25-A/viewform)
 - [We Watch talks](https://github.com/amorriscode/wewatch.tech)
 - [CSS Tricks](https://css-tricks.com/guest-posting/)
+
+### Wanna Teach?
+
+Well then, start teaching! Make a screencast and submit it to these places!
+
+- [Egghead](https://howtoegghead.com/)
