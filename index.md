@@ -82,7 +82,7 @@ Postgres
 
 - Find your "why" to avoid burnout
 - How I translate code into human
-- The Hackathon, The Open Source, and The English Writing: how I use this trinity to build my tech skills
+- The Hackathon, The Open Source, and The English Writing: how I use this trinity to iteratively build my tech skills
 
 ### Fun Ideas for small projects
 
@@ -172,6 +172,9 @@ coming soon!
 
 - [swyx](https://www.swyx.io/)
 - [Josh.Works](https://josh.works/)
+- [Manuel Matuzović](https://www.matuzo.at/til/)
+- [Code Cartoons](https://code-cartoons.com/)
+- [Dan Abrimov](https://overreacted.io/)
 
 ### Supercharge your learning with these resources
 
@@ -179,13 +182,28 @@ coming soon!
 - [Anki, the best flash cards ever](https://apps.ankiweb.net/)
 - [A Mind For Numbers, aka the book that rescued me from learning anxiety](https://barbaraoakley.com/books/a-mind-for-numbers/)
 
+### Supercharge your technical writing
+
+- [Advice for Technical Writing](https://css-tricks.com/advice-for-technical-writing/)
+- [How to Write a Blog Post (general)](https://blog.hubspot.com/marketing/how-to-start-a-blog)
+
+### Free Pics for your Blog
+
+- [Unsplash](https://unsplash.com/)
+- [Pixabay](https://pixabay.com/)
+- [Pixlr (editing)](https://pixlr.com/)
+
 ### Grow some mushrooms at home, yo!
 
-- [Grow them on Straw!](https://blog.freshcapmushrooms.com/learn/grow-at-home-how-to-grow-mushrooms-at-home-using-straw-logs/)
-- [Grow them in a Bucket!](https://www.youtube.com/watch?v=45b2t7fqhjA&feature=youtu.be)
+- [Grow them from a Kit! (Easy)](https://shop.mushroommountain.com/collections/indoor-fruiting-kits)
+- [Grow them in a Bucket! (Easy)](https://www.youtube.com/watch?v=45b2t7fqhjA&feature=youtu.be)
+- [Grow them on Straw! (Medium)](https://blog.freshcapmushrooms.com/learn/grow-at-home-how-to-grow-mushrooms-at-home-using-straw-logs/)
+- [Grow them on logs! (Hard)](https://mushroommountain.com/new-to-growing-mushrooms/)
 
 ### Places to write
 
 If you like to write as much as I do, here are the places I've found who are currently accepting applications for contributors
 
 - [Twilio](https://docs.google.com/forms/d/e/1FAIpQLSefDUKl2v5vOx1lLOyqAEgFXjFwcf2Jwk_rkL4Yq9wK2v25-A/viewform)
+- [We Watch talks](https://github.com/amorriscode/wewatch.tech)
+- [CSS Tricks](https://css-tricks.com/guest-posting/)
