@@ -37,7 +37,7 @@ I love teaching people what I've learned! Here's some talks where I do just that
 
 - [Build Your Own Cloud Gaming PC using AWS EC2 services, Bend JavaScript](https://medium.com/@akirabrand/build-a-gaming-pc-w-aws-5e68e7cd207c)
 
-I love teaching, and I'd love to teach your community something new! for workshops/lightning talks/presentations, send me an e-mail at akira.brand@yahoo.com, and we'll work out the details!
+I love teaching, and I'd love to teach your community something new! HMU at akira.brand@yahoo.com and I'd love to come teach you or your people something fun!
 
 ### Stuff I've written
 
@@ -46,6 +46,8 @@ I love teaching, and I'd love to teach your community something new! for worksho
 - [What _Is_ WSGI?](https://medium.com/@akirabrand/what-is-wsgi-9835bf08ed7b)
 
 - [How to create a MySQL-Python connector, cursor, and run CRUD commands with MySQL](https://medium.com/@akirabrand/internship-day-four-command-line-queries-to-create-mysql-python-connector-cursor-and-run-crud-ce978d2f227f)
+
+I WANT TO WRITE FOR YOU! I <3 sharing knowledge, hmu at akira.brand@yahoo.com if you'd like a new contributor!
 
 ### Works in progress
 
