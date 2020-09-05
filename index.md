@@ -106,11 +106,11 @@ Postgres
 
 ### Fantastic Open-Source Projects I'm contributing to
 
-[NodeJS](https://github.com/nodejs/nodejs.dev)
+- [NodeJS](https://github.com/nodejs/nodejs.dev)
 
-[Mintbean CLI](https://github.com/Mintbean/mintbean-cli/issues?q=is%3Aopen+is%3Aissue)
+- [Mintbean CLI](https://github.com/Mintbean/mintbean-cli/issues?q=is%3Aopen+is%3Aissue)
 
-[We Watch Talks](https://github.com/amorriscode/wewatch.tech)
+- [We Watch Talks](https://github.com/amorriscode/wewatch.tech)
 
 ### Cool music and tech fusion stuff
 
@@ -174,6 +174,7 @@ coming soon!
 - [Manuel Matuzović](https://www.matuzo.at/til/)
 - [Code Cartoons](https://code-cartoons.com/)
 - [Dan Abrimov](https://overreacted.io/)
+- [Twirling Tech Goddess](https://www.youtube.com/watch?v=9pQmwvn147I)
 
 ### Supercharge your learning with these resources
 
