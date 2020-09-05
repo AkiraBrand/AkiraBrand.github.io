@@ -82,7 +82,7 @@ Postgres
 - How I translate code into human
 - The Hackathon, The Open Source, and The English Writing: how I use this trinity to iteratively build my tech skills
 
-### Fun Ideas for small projects
+### Fun Ideas for Small Projects
 
 - Chrome extension that monitors time spent on social media, and when you navigate away from the page, Count Reugen from "The Princess Bride" shows up and says:
   "I've just sucked <x amount of hours/minutes> of your life away. Tell me, how does it feel?"
@@ -104,7 +104,7 @@ Postgres
 - Tutorial on how to chunk knowledge
 - Tutorial on documentation, namely, writing with an active, clear voice
 
-### Fantastic Open-Source Projects I'm contributing to
+### Fantastic Open-Source Projects
 
 - [NodeJS](https://github.com/nodejs/nodejs.dev)
 
@@ -112,7 +112,7 @@ Postgres
 
 - [We Watch Talks](https://github.com/amorriscode/wewatch.tech)
 
-### Cool music and tech fusion stuff
+### Cool Fusions of Music and Tech
 
 - [Audio Mass](https://audiomass.co/)
 - [Make Your own Brian Eno Cover with Javascript](https://teropa.info/blog/2016/07/28/javascript-systems-music.html)
@@ -130,25 +130,25 @@ Postgres
 - [Decentralized Web Seattle](https://twitter.com/DwebSeattle)
 - [17 Blockchain Apps That are Transforming Society](https://blockgeeks.com/guides/blockchain-applications/)
 
-### Cool workflow/management tools
+### Cool workflow/management Tools
 
 [Remote Retro](https://remoteretro.org/)
 
-### ALL the JS runtime environments!
+### ALL the JS Runtime Environments!
 
 - [Babel](bableljs.io)
 - [Repl](https://repl.it/~)
 - [RunJS](https://runjs.dev/)
 
-### My Fave JS Libararies
+### My Fave JS Libraries
 
 - [Parallax, 3D goodness](http://matthew.wagerfield.com/parallax/)
 
-### JS libraries I want to try
+### JS libraries I Want to Try
 
 - [ThreeJS-super cool looking 3D visualizations](https://threejs.org/)
 
-### Great places I've gone to go DEEP with JavaScript
+### Great places I've Gone to go DEEP with JavaScript
 
 - [Egghead.io, fantastic tutorials/classes](https://egghead.io/)
 - [Frontend Masters, paid subscription service with robust courses](www.frontendmasters.com)
@@ -163,7 +163,7 @@ Postgres
 
 coming soon!
 
-### Project Design Inspiration
+### Project Inspiration
 
 coming soon!
 
@@ -176,13 +176,13 @@ coming soon!
 - [Dan Abrimov](https://overreacted.io/)
 - [Twirling Tech Goddess](https://www.youtube.com/watch?v=9pQmwvn147I)
 
-### Supercharge your learning with these resources
+### Supercharge Your Learning
 
 - [Zettlekasten, aka strategic index cards](https://zettelkasten.de/posts/zettelkasten-improves-thinking-writing/)
 - [Anki, the best flash cards ever](https://apps.ankiweb.net/)
-- [A Mind For Numbers, aka the book that rescued me from learning anxiety](https://barbaraoakley.com/books/a-mind-for-numbers/)
+- [A Mind For Numbers, the book that rescued me from learning anxiety](https://barbaraoakley.com/books/a-mind-for-numbers/)
 
-### Supercharge your technical writing
+### Supercharge your Technical Writing
 
 - [Advice for Technical Writing](https://css-tricks.com/advice-for-technical-writing/)
 - [How to Write a Blog Post (general)](https://blog.hubspot.com/marketing/how-to-start-a-blog)
@@ -193,14 +193,14 @@ coming soon!
 - [Pixabay](https://pixabay.com/)
 - [Pixlr (editing)](https://pixlr.com/)
 
-### Grow some mushrooms at home, yo!
+### Grow Some Mushrooms at Home, yo!
 
 - [Grow them from a Kit! (Easy)](https://shop.mushroommountain.com/collections/indoor-fruiting-kits)
 - [Grow them in a Bucket! (Easy)](https://www.youtube.com/watch?v=45b2t7fqhjA&feature=youtu.be)
 - [Grow them on Straw! (Medium)](https://blog.freshcapmushrooms.com/learn/grow-at-home-how-to-grow-mushrooms-at-home-using-straw-logs/)
 - [Grow them on logs! (Hard)](https://mushroommountain.com/new-to-growing-mushrooms/)
 
-### Places to write
+### Places to Write
 
 If you like to write as much as I do, here are the places I've found who are currently accepting applications for contributors
 
