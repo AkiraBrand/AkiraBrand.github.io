@@ -73,6 +73,19 @@ HTML/CSS
 VanillaJS  
 Postgres
 
+### Fun Ideas for Workshops
+
+- Make any picture into cake w/ CSS (Because everything is cake. Always has been.)
+
+### Fun Ideas for small projects
+
+- Chrome extension that moniters time on social media, and when you navigate away, Count Reugen from "The Princess Bride" shows up and says:
+  "I've just sucked <x amount of hours/minutes> of your life away. Tell me, how does it feel?"
+
+### Blog Ideas
+
+- Crash course on collaborating on github
+
 ### Fantastic Open-Source Projects I'm contributing to
 
 [NodeJS](https://github.com/nodejs/nodejs.dev)
@@ -85,16 +98,16 @@ Postgres
 
 ### Decentralized Web Goodness
 
-[Consensys Academy-Decentralized Web Bootcamp](https://consensys.net/academy/)
-[Beaker, a Peer-to-Peer Web browser](https://beakerbrowser.com/)
-[Protoschool Tutorials](https://proto.school/)
-[IPFS, p2p file stroage](https://ipfs.io/)
-[Scuttlebutt, decentralized, p2p social media](https://scuttlebutt.nz/)
-[How IFPS works](https://docs.ipfs.io/concepts/how-ipfs-works/#content-addressing)
-[Get Involved With The Etherium Community](https://ethereum.org/en/community/)
-[How the Decentralized Web Works](https://datatogether.org/posts/05_dweb_primer/)
-[Decentralized Web Seattle](https://twitter.com/DwebSeattle)
-[17 Blockchain Apps That are Transforming Society](https://blockgeeks.com/guides/blockchain-applications/)
+- [Consensys Academy-Decentralized Web Bootcamp](https://consensys.net/academy/)
+- [Beaker, a Peer-to-Peer Web browser](https://beakerbrowser.com/)
+- [Protoschool Tutorials](https://proto.school/)
+- [IPFS, p2p file stroage](https://ipfs.io/)
+- [Scuttlebutt, decentralized, p2p social media](https://scuttlebutt.nz/)
+- [How IFPS works](https://docs.ipfs.io/concepts/how-ipfs-works/#content-addressing)
+- - [Get Involved With The Etherium Community](https://ethereum.org/en/community/)
+- [How the Decentralized Web Works](https://datatogether.org/posts/05_dweb_primer/)
+- [Decentralized Web Seattle](https://twitter.com/DwebSeattle)
+- [17 Blockchain Apps That are Transforming Society](https://blockgeeks.com/guides/blockchain-applications/)
 
 ### Cool workflow/management tools
 
