@@ -74,6 +74,12 @@ Postgres
 ### Fun Ideas for Workshops
 
 - Make any picture into cake w/ CSS (Because everything is cake. Always has been.)
+- How to talk to strangers
+
+### Fun Ideas for Lightning Talks
+
+- Find your "why" to avoid burnout
+- How I translate code into human
 
 ### Fun Ideas for small projects
 
@@ -83,6 +89,14 @@ Postgres
 ### Blog Ideas
 
 - Crash course on collaborating on github
+- How to recreate hanging out in a library online
+- Going deep vs going wide
+- How to be a good mentee
+- Lessons in the development process that I've learned from recovering from PTSD
+- The developer's search for meaning: How Merkle's existentialist writing applies to your career path
+- Photo journal of making Kimchi
+- Photo journal of making Makgolli
+- Photo journal of feeding Natto to my friends
 
 ### Fantastic Open-Source Projects I'm contributing to
 
@@ -122,9 +136,13 @@ Postgres
 
 - [Parallax, 3D goodness](http://matthew.wagerfield.com/parallax/)
 
-### Great places to learn all things JavaScript
+### Great places I've gone to go DEEP with JavaScript
 
 - [Egghead.io, fantastic tutorials/classes](https://egghead.io/)
 - [Frontend Masters, paid subscription service with robust courses](www.frontendmasters.com)
 - [Turing School's Open Source Curriculum](www.frontend.turing.io)
 - [The Odin Project, open source full-stack curriculum in Ruby and JS](https://www.theodinproject.com/tracks)
+- [A Brief History of Javascript](https://medium.com/@_benaston/lesson-1a-the-history-of-javascript-8c1ce3bffb17)
+- [Allen Wirfs-Brock, the Gandalf of JavaScript](http://www.wirfs-brock.com/allen/)
+- [The Origin of Javascript with Brandon Eich](https://web.archive.org/web/20150817165652/http://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich)
+- [Association for Computing Machinery aka the Library of all things Tech](https://dl.acm.org/doi/10.1145/3386327)
