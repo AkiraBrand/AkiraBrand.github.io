@@ -5,9 +5,9 @@ title: Home
 
 ### About Me
 
-Hey there, I'm Akira! Welcome to my digital garden!
+Hey there, I'm Akira!
 
-I'm a software developer by trade, working with the usual suspects of Ruby, Javascript, React, and Rails, and I currently teaching myself the joys of server-side JS w/ Node and Deno, and dipping my toes in (ok, lets get real, more like jumping into the deep end) of open-source work with Mintbean and The Open JS Foundation.
+I'm a software developer, working with the usual suspects of Ruby, Javascript, React, and Rails, and I currently teaching myself the joys of server-side JS w/ Node and Deno, and dipping my toes in (ok, lets get real, more like jumping into the deep end) of open-source work with Mintbean and The Open JS Foundation.
 
 I hugely enjoy unusual aspects of making awesome stuff with tech, like building my own cloud gaming PC, using homemade logic gates to build an entire computer from scratch with virtual hardware, making music with Javascript, and growing gourmet kitchen mushrooms with the help of a Raspberry Pi.
 
@@ -28,6 +28,8 @@ AMA at akira.brand@yahoo.com
 - [Twitter](https://www.twitter.com/AkiraMakes)
 
 - [Blog](https://www.medium.com/@akirabrand)
+
+- [Resume](https://docs.google.com/document/d/1DJlBm9iYfrw3OeVdl-lXw60j20dQkv606EF5X0nPiLI/edit?usp=sharing)
 
 ### Talks I've given
 
