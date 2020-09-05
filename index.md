@@ -83,20 +83,24 @@ Postgres
 
 ### Fun Ideas for small projects
 
-- Chrome extension that moniters time on social media, and when you navigate away, Count Reugen from "The Princess Bride" shows up and says:
+- Chrome extension that monitors time spent on social media, and when you navigate away from the page, Count Reugen from "The Princess Bride" shows up and says:
   "I've just sucked <x amount of hours/minutes> of your life away. Tell me, how does it feel?"
 
 ### Blog Ideas
 
-- Crash course on collaborating on github
-- How to recreate hanging out in a library online
-- Going deep vs going wide
+- Crash course on collaborating on Github
 - How to be a good mentee
 - Lessons in the development process that I've learned from recovering from PTSD
-- The developer's search for meaning: How Merkle's existentialist writing applies to your career path
+- The developer's search for meaning: How Merkle's existentialist writing applies to our work
 - Photo journal of making Kimchi
 - Photo journal of making Makgolli
 - Photo journal of feeding Natto to my friends
+- How I rescued myself from study anxiety
+- Tutorials aren't hell, the way you use them sucks
+- A good to-do tutorial w/ Rails and React
+- A good to-do tutorial w/ React
+- Tutorial on how to chunk knowledge
+- Tutorial on documentation, namely, writing with an active, clear voice
 
 ### Fantastic Open-Source Projects I'm contributing to
 
@@ -136,6 +140,10 @@ Postgres
 
 - [Parallax, 3D goodness](http://matthew.wagerfield.com/parallax/)
 
+### JS libraries I want to try
+
+- [ThreeJS-super cool looking 3D visualizations](https://threejs.org/)
+
 ### Great places I've gone to go DEEP with JavaScript
 
 - [Egghead.io, fantastic tutorials/classes](https://egghead.io/)
@@ -146,3 +154,21 @@ Postgres
 - [Allen Wirfs-Brock, the Gandalf of JavaScript](http://www.wirfs-brock.com/allen/)
 - [The Origin of Javascript with Brandon Eich](https://web.archive.org/web/20150817165652/http://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich)
 - [Association for Computing Machinery aka the Library of all things Tech](https://dl.acm.org/doi/10.1145/3386327)
+
+### Portfolio design inspiration
+
+### The Best Blogs, Jerry, The Best!
+
+- [swyx](https://www.swyx.io/)
+- [Josh.Works](https://josh.works/)
+
+### Supercharge your learning with these resources
+
+- [Zettlekasten, aka strategic index cards](https://zettelkasten.de/posts/zettelkasten-improves-thinking-writing/)
+- [Anki, the best flash cards ever](https://apps.ankiweb.net/)
+- [A Mind For Numbers, aka the book that rescued me from learning anxiety](https://barbaraoakley.com/books/a-mind-for-numbers/)
+
+### Grow some mushrooms at home, yo!
+
+- [Grow them on Straw!](https://blog.freshcapmushrooms.com/learn/grow-at-home-how-to-grow-mushrooms-at-home-using-straw-logs/)
+- [Grow them in a Bucket!](https://www.youtube.com/watch?v=45b2t7fqhjA&feature=youtu.be)
