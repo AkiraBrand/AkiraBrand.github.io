@@ -121,3 +121,10 @@ Postgres
 ### My Fave JS Libararies
 
 - [Parallax, 3D goodness](http://matthew.wagerfield.com/parallax/)
+
+### Great places to learn all things JavaScript
+
+- [Egghead.io, fantastic tutorials/classes](https://egghead.io/)
+- [Frontend Masters, paid subscription service with robust courses](www.frontendmasters.com)
+- [Turing School's Open Source Curriculum](www.frontend.turing.io)
+- [The Odin Project, open source full-stack curriculum in Ruby and JS](https://www.theodinproject.com/tracks)
