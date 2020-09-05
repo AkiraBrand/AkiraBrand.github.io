@@ -7,7 +7,7 @@ title: Home
 
 Hey there, I'm Akira! Welcome to my digital garden!
 
-I'm a software developer by trade, working with the usual suspects of Ruby, Javascript, React, and Rails, and I currently teaching myself the joys of server-side JS w/ Node and Deno.
+I'm a software developer by trade, working with the usual suspects of Ruby, Javascript, React, and Rails, and I currently teaching myself the joys of server-side JS w/ Node and Deno, and dipping my toes in (ok, lets get real, more like jumping into the deep end) of open-source work with Mintbean and The Open JS Foundation.
 
 I hugely enjoy unusual aspects of making awesome stuff with tech, like building my own cloud gaming PC, using homemade logic gates to build an entire computer from scratch with virtual hardware, making music with Javascript, and growing gourmet kitchen mushrooms with the help of a Raspberry Pi.
 
@@ -72,3 +72,29 @@ Express
 HTML/CSS  
 VanillaJS  
 Postgres
+
+### Fantastic Open-Source Projects I'm contributing to
+
+[NodeJS](https://github.com/nodejs/nodejs.dev)
+
+[Mintbean CLI](https://github.com/Mintbean/mintbean-cli/issues?q=is%3Aopen+is%3Aissue)
+
+### Cool music and tech fusion stuff
+
+[Audio Mass](https://audiomass.co/)
+
+### Decentralized Web Goodness
+
+[Consensys Academy-Decentralized Web Bootcamp](https://consensys.net/academy/)
+[Beaker, a Peer-to-Peer Web browser](https://beakerbrowser.com/)
+[Protoschool Tutorials](https://proto.school/)
+[IPFS, p2p file stroage](https://ipfs.io/)
+[Scuttlebutt, decentralized, p2p social media](https://scuttlebutt.nz/)
+[How IFPS works](https://docs.ipfs.io/concepts/how-ipfs-works/#content-addressing)
+[Get Involved With The Etherium Community](https://ethereum.org/en/community/)
+[How the Decentralized Web Works](https://datatogether.org/posts/05_dweb_primer/)
+[Decentralized Web Seattle](https://twitter.com/DwebSeattle)
+
+### Cool workflow/management tools
+
+[Remote Retro](https://remoteretro.org/)
