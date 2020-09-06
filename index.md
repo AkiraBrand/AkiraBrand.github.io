@@ -183,6 +183,7 @@ coming soon!
 - [Dan Abrimov](https://overreacted.io/)
 - [Twirling Tech Goddess](https://www.youtube.com/watch?v=9pQmwvn147I)
 - [Joel Hooks](https://joelhooks.com/)
+- [Debugging theory & Practice](https://medium.com/@dnsimple/improve-your-dev-and-ops-skills-with-troubleshooting-theory-68f7d8718e97)
 
 ### Supercharge Your Learning
 
