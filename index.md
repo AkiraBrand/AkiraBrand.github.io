@@ -13,7 +13,7 @@ I hugely enjoy unusual aspects of making awesome stuff with tech, like building 
 
 I love to learn, and learn in-depth. There's nothing more pleasurable for me than going deep into a subject for an extended period of time, and resurfacing from those depths to make unique, creative work.
 
-I love to share and create, so here you'll find all kinds of tech resources as well as info on my passions: fermentation, reading, growing my own food, art, music, gestalt, theater, traditional plant medicine, philosophy, ethics, cultural explorations, economic theory, and being in the wilderness.
+I love to share and create, so here you'll find all kinds of tech resources as well as info on my passions: music, fermentation, reading, growing my own food, art, gestalt, theater, traditional plant medicine, philosophy, ethics, cultural explorations, economic theory, and being in the wilderness.
 
 AMA on [twitter](https://www.twitter.com/akiramakes)!
 
