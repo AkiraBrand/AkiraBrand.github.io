@@ -222,3 +222,7 @@ If you like to write as much as I do, here are the places I've found who are cur
 Well then, start teaching! Make a screencast and submit it to these places!
 
 - [Egghead](https://howtoegghead.com/)
+
+### Masterful Music
+
+- ["Requiem" from the 1988 film, "Akira"](https://www.youtube.com/watch?v=YKvtbH8qUWU)
