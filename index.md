@@ -103,6 +103,9 @@ Postgres
 - A good to-do tutorial w/ React
 - Tutorial on how to chunk knowledge
 - Tutorial on documentation, namely, writing with an active, clear voice
+- How to Recover from Social Media Addiction
+- Social Media is the New Opioid Addiction
+- Transcendence and Technology: what the revolutionary film Akira teaches us about the our destiny
 
 ### Fantastic Open-Source Projects
 
@@ -148,6 +151,7 @@ Postgres
 ### JS libraries I Want to Try
 
 - [ThreeJS-super cool looking 3D visualizations](https://threejs.org/)
+  = [CindyJS-physics and math at a high level](https://cindyjs.org/)
 
 ### Great places I've Gone to go DEEP with JavaScript
 
@@ -165,6 +169,7 @@ Postgres
 - [Clean HTML Best Practices](https://medium.com/@sergimarquez/8-best-practices-to-write-clean-html-code-1cd407e2a7ec)
 - [MDN HTML overview](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Check if Markup is Valid](https://validator.w3.org/#validate_by_uri)
+- [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en#property)
 
 ### Portfolio Design Inspiration
 
@@ -226,3 +231,7 @@ Well then, start teaching! Make a screencast and submit it to these places!
 ### Masterful Music
 
 - ["Requiem" from the 1988 film, "Akira"](https://www.youtube.com/watch?v=YKvtbH8qUWU)
+
+### Questions to figure out
+
+- [Whats up with underscore functions?](https://underscorejs.org/#groupBy)
