@@ -29,6 +29,8 @@ AMA on [twitter](https://www.twitter.com/akiramakes)!
 
 - [Resume](https://docs.google.com/document/d/1DJlBm9iYfrw3OeVdl-lXw60j20dQkv606EF5X0nPiLI/edit?usp=sharing)
 
+<!-- [![Akira's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/akiramakes) -->
+
 ### Talks I've given
 
 I love teaching people what I've learned! Here's some talks where I do just that:
@@ -103,7 +105,7 @@ Postgres
 - A good to-do tutorial w/ React
 - Tutorial on how to chunk knowledge
 - Tutorial on documentation, namely, writing with an active, clear voice
-- How to Recover from Social Media Addiction
+- How to Recover from Social Media Addictionyll
 - Social Media is the New Opioid Addiction
 - Transcendence and Technology: what the revolutionary film Akira teaches us about the our destiny
 
@@ -114,6 +116,8 @@ Postgres
 - [Mintbean CLI](https://github.com/Mintbean/mintbean-cli/issues?q=is%3Aopen+is%3Aissue)
 
 - [We Watch Talks](https://github.com/amorriscode/wewatch.tech)
+
+- [Sinatra! Omg I <3 Sinatra](https://github.com/sinatra/sinatra)
 
 ### Cool Fusions of Music and Tech
 
