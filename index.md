@@ -155,7 +155,7 @@ Postgres
 ### JS libraries I Want to Try
 
 - [ThreeJS-super cool looking 3D visualizations](https://threejs.org/)
-  = [CindyJS-physics and math at a high level](https://cindyjs.org/)
+- [CindyJS-physics and math at a high level](https://cindyjs.org/)
 
 ### Great places I've Gone to go DEEP with JavaScript
 
@@ -181,7 +181,8 @@ coming soon!
 
 ### Project Inspiration
 
-coming soon!
+- [Major League Hacking](https://mlh.io/)
+- [Major Leauge Hacking Felloship](https://fellowship.mlh.io/)
 
 ### The Best Blogs, Jerry, The Best!
 
