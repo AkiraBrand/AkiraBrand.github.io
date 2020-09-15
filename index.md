@@ -156,6 +156,7 @@ Postgres
 
 - [ThreeJS-super cool looking 3D visualizations](https://threejs.org/)
 - [CindyJS-physics and math at a high level](https://cindyjs.org/)
+- [Getting Started with Redwood JS](https://community.redwoodjs.com/t/a-first-look-at-redwoodjs-complete-series/1143)
 
 ### Great places I've Gone to go DEEP with JavaScript
 
