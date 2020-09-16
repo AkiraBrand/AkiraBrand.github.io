@@ -184,6 +184,7 @@ coming soon!
 
 - [Major League Hacking](https://mlh.io/)
 - [Major Leauge Hacking Felloship](https://fellowship.mlh.io/)
+- [Sideshow](https://thesideshow.org/)x
 
 ### The Best Blogs, Jerry, The Best!
 
