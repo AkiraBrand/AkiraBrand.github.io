@@ -41,6 +41,10 @@ I love teaching people what I've learned! Here's some talks where I do just that
 
 ### Stuff I've written
 
+- [I Translated Big Scary Tech Terms So You Don't Have To](https://dev.to/akiramakes/i-translated-big-scary-tech-terms-to-human-so-you-don-t-have-to-23jk)
+
+- [How Scope Works and Why You Should Care](https://dev.to/akiramakes/how-scope-works-why-you-should-care-5ale)
+
 - [Basic AND Logic Gates, Distilled](https://medium.com/@akirabrand/basic-and-logic-gates-distilled-c404f18a3d43)
 
 - [What _Is_ WSGI?](https://medium.com/@akirabrand/what-is-wsgi-9835bf08ed7b)
@@ -160,6 +164,7 @@ Postgres
 
 ### Great places I've Gone to go DEEP with JavaScript
 
+- [Really Great Real-World Analogies](https://sidewaysdictionary.com/#/term/api)
 - [Egghead.io, fantastic tutorials/classes](https://egghead.io/)
 - [Frontend Masters, paid subscription service with robust courses](www.frontendmasters.com)
 - [Turing School's Open Source Curriculum](www.frontend.turing.io)
