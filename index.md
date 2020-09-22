@@ -92,6 +92,7 @@ Postgres
 
 - Chrome extension that monitors time spent on social media, and when you navigate away from the page, Count Reugen from "The Princess Bride" shows up and says:
   "I've just sucked <x amount of hours/minutes> of your life away. Tell me, how does it feel?"
+- [Make a Raspberry Pi Content Filter](https://www.wired.com/story/diy-raspberry-pi-home-network-content-filter/)
 
 ### Blog Ideas
 
