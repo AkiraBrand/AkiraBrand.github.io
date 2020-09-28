@@ -81,12 +81,14 @@ Postgres
 - How to talk to strangers
 - Build your own personal site with Jekyll
 - Build a 3d photo gallery w/ parallax.js
+- Debugging workshop
 
 ### Fun Ideas for Lightning Talks
 
 - Find your "why" to avoid burnout
 - How I translate code into human
 - The Hackathon, The Open Source, and The English Writing: how I use this trinity to iteratively build my tech skills
+- Debugging JS Basics
 
 ### Fun Ideas for Small Projects
 
@@ -113,6 +115,7 @@ Postgres
 - How to Recover from Social Media Addictionyll
 - Social Media is the New Opioid Addiction
 - Transcendence and Technology: what the revolutionary film Akira teaches us about the our destiny
+- Debugging JavaScript for n00bs
 
 ### Fantastic Open-Source Projects
 
@@ -174,6 +177,7 @@ Postgres
 - [Allen Wirfs-Brock, the Gandalf of JavaScript](http://www.wirfs-brock.com/allen/)
 - [The Origin of Javascript with Brandon Eich](https://web.archive.org/web/20150817165652/http://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich)
 - [Association for Computing Machinery aka the Library of all things Tech](https://dl.acm.org/doi/10.1145/3386327)
+- [Debugging JavaScript (beginner level)](https://developers.google.com/web/tools/chrome-devtools/javascript)
 
 ### Writing HTML and CSS that doesn't Suck
 
