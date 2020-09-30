@@ -218,6 +218,10 @@ coming soon!
 - [Advice for Technical Writing](https://css-tricks.com/advice-for-technical-writing/)
 - [How to Write a Blog Post (general)](https://blog.hubspot.com/marketing/how-to-start-a-blog)
 
+### Supercharge your Workshops
+
+- [Liberating Structures: USE THESE. These are magic for classroom and workshop engagement.] (http://www.liberatingstructures.com/)
+
 ### Free Pics for your Blog
 
 - [Unsplash](https://unsplash.com/)
