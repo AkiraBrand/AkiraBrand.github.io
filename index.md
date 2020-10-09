@@ -144,6 +144,7 @@ Postgres
 - [How the Decentralized Web Works](https://datatogether.org/posts/05_dweb_primer/)
 - [Decentralized Web Seattle](https://twitter.com/DwebSeattle)
 - [17 Blockchain Apps That are Transforming Society](https://blockgeeks.com/guides/blockchain-applications/)
+- [Keybase](keybase.io)
 
 ### Cool workflow/management Tools
 
