@@ -186,10 +186,11 @@ Postgres
 - [MDN HTML overview](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Check if Markup is Valid](https://validator.w3.org/#validate_by_uri)
 - [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en#property)
+- [Filepath Reminders](https://css-tricks.com/quick-reminder-about-file-paths/)
 
-### Portfolio Design Inspiration
+### HELP, I BROKE GIT!
 
-coming soon!
+- [Oh Shit, Git!](https://ohshitgit.com/)
 
 ### Project Inspiration
 
