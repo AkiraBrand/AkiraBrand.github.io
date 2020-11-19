@@ -7,13 +7,9 @@ title: Home
 
 Hi! I'm Akira!
 
-I'm a software developer. I work in Javascript, Ruby, React, and Rails, and I'm learning the joys of server-side JS w/ Node and Deno. Someday I'll learn Typescript. Maybe someday I'll even learn Assembly.
+I'm a software developer. Right now, I'm working in Javascript, React, HTML/CSS, and I'm learning the joys of server-side JS w/ Express, Node and MongoDB. Someday I'll learn Typescript. Maybe someday I'll even learn Assembly.
 
-I hugely enjoy unusual aspects of making awesome stuff with tech, like building my own cloud gaming PC, using homemade logic gates to build an entire computer from scratch with virtual hardware, making music with Javascript, and growing gourmet kitchen mushrooms with the help of a Raspberry Pi.
-
-I love to learn, and learn in-depth. There's nothing more pleasurable for me than going deep into a subject for an extended period of time, and resurfacing from those depths to make unique, creative work.
-
-I love to share and create, so here you'll find all kinds of tech resources as well as info on my passions: music, fermentation, reading, growing my own food, art, gestalt, theater, traditional plant medicine, philosophy, ethics, cultural explorations, economic theory, and being in the wilderness.
+I love to share, teach, and create, so here you'll find all kinds of tech resources as well as info on my passions: music, fermentation, leadership, growing my own food, art, theater, cultural explorations, and being in the wilderness.
 
 AMA on [twitter](https://www.twitter.com/akiramakes)!
 
