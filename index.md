@@ -116,6 +116,11 @@ Postgres
 - Transcendence and Technology: what the revolutionary film Akira teaches us about the our destiny
 - Bug fixing the Best Way - compare and contrast different approaches w/o demonizing any of them
 - From Rubyist to JavaScript-er - the good, the bad, and the ugly
+- General Fetch API knowledge; what it makes available & why its so widely used
+- Async and Await sideways definitions
+- Promises sideways definitions
+- You Gotta Spend Money to Make Money - How I Prioritized Debt and Got Rich (wip haha)
+- Comics on schoolkids that illustrates async programming: promises, fetch, async & await
 
 ### Fantastic Open-Source Projects
 
