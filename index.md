@@ -112,10 +112,10 @@ Postgres
 - A good to-do tutorial w/ React
 - Tutorial on how to chunk knowledge
 - Tutorial on documentation, namely, writing with an active, clear voice
-- How to Recover from Social Media Addictionyll
 - Social Media is the New Opioid Addiction
 - Transcendence and Technology: what the revolutionary film Akira teaches us about the our destiny
-- Debugging JavaScript for n00bs
+- Bug fixing the Best Way - compare and contrast different approaches w/o demonizing any of them
+- From Rubyist to JavaScript-er - the good, the bad, and the ugly
 
 ### Fantastic Open-Source Projects
 
