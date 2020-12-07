@@ -9,7 +9,7 @@ Hi! I'm Akira!
 
 I'm a software developer. Right now, I'm working in Javascript, React, HTML/CSS, and I'm learning the joys of server-side JS w/ Express, Node and MongoDB. Someday I'll learn Typescript. Maybe someday I'll even learn Assembly.
 
-I love to share, teach, and create, so here you'll find all kinds of tech resources as well as info on my passions: music, fermentation, leadership, growing my own food, art, theater, cultural explorations, and being in the wilderness.
+I love to share, teach, and create, so here you'll find all kinds of tech resources as well as info on my passions: music, fermentation, leadership, growing my own food, art, theater, cultural explorations, and being outside.
 
 AMA on [twitter](https://www.twitter.com/akiramakes)!
 
@@ -19,13 +19,10 @@ AMA on [twitter](https://www.twitter.com/akiramakes)!
 
 - [GitHub](https://www.github.com/akirabrand)
 
-- [Twitter](https://www.twitter.com/AkiraMakes)
-
-- [Blog](https://www.medium.com/@akirabrand)
+- [Blog](https://dev.to/akiramakes)
 
 - [Resume](https://docs.google.com/document/d/1DJlBm9iYfrw3OeVdl-lXw60j20dQkv606EF5X0nPiLI/edit?usp=sharing)
 
-<!-- [![Akira's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/akiramakes) -->
 
 ### Talks I've given
 
