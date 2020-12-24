@@ -131,6 +131,7 @@ Postgres
 - [Make Your own Brian Eno Cover with Javascript](https://teropa.info/blog/2016/07/28/javascript-systems-music.html)
 - [Sketch, but with your ears (Python and Javascript)](https://earsketch.gatech.edu/landing/#/)
 - [Sonic Pi, a Ruby-based Synth](https://sonic-pi.net/)
+- [Tone.js, create interactive music in your browser](https://tonejs.github.io/)
 
 ### Decentralized Web Goodness
 
@@ -166,6 +167,7 @@ Postgres
 - [ThreeJS-super cool looking 3D visualizations](https://threejs.org/)
 - [CindyJS-physics and math at a high level](https://cindyjs.org/)
 - [Getting Started with Redwood JS](https://community.redwoodjs.com/t/a-first-look-at-redwoodjs-complete-series/1143)
+- [Tone.js, create interactive music in your browser](https://tonejs.github.io/)
 
 ### Great places I've Gone to go DEEP with JavaScript
 
