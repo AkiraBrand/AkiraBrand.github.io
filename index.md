@@ -129,6 +129,8 @@ Postgres
 
 - [Audio Mass](https://audiomass.co/)
 - [Make Your own Brian Eno Cover with Javascript](https://teropa.info/blog/2016/07/28/javascript-systems-music.html)
+- [Sketch, but with your ears (Python and Javascript)](https://earsketch.gatech.edu/landing/#/)
+- [Sonic Pi, a Ruby-based Synth](https://sonic-pi.net/)
 
 ### Decentralized Web Goodness
 
