@@ -94,7 +94,6 @@ Postgres
 - Crash course on collaborating on Github
 - Big refactor energy
 - How to be a good mentee
-- Lessons in the development process that I've learned from recovering from PTSD
 - The developer's search for meaning: How Merkle's existentialist writing applies to our work
 - Photo journal of making Kimchi
 - Photo journal of making Makgolli
