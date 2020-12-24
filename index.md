@@ -11,8 +11,6 @@ I'm a software developer. Right now, I'm working in Javascript, React, HTML/CSS,
 
 I love to share, teach, and create, so here you'll find all kinds of tech resources as well as info on my passions: music, fermentation, leadership, growing my own food, art, theater, cultural explorations, and being outside.
 
-AMA on [twitter](https://www.twitter.com/akiramakes)!
-
 ### Find me on the web
 
 - [LinkedIn](https://www.linkedin.com/in/akirabrand/)
@@ -31,6 +29,8 @@ I love teaching people what I've learned! Here's some talks where I do just that
 - [Refactoring in Ruby, Bend JavaScript](https://youtu.be/oii16rgOOYw?t=258)
 
 - [Build Your Own Cloud Gaming PC using AWS EC2 services, Bend JavaScript](https://medium.com/@akirabrand/build-a-gaming-pc-w-aws-5e68e7cd207c)
+
+- [Learning How to Learn, BendJS and Mintbean (Slide Deck)](https://drive.google.com/file/d/1wXzbtj0EqUaLefkG79ileZNS3KQw-Npo/view?usp=sharing)
 
 ### Stuff I've written
 
