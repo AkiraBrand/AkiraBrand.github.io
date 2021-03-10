@@ -28,7 +28,7 @@ I love teaching people what I've learned! Here's some talks where I do just that
 
 - [Refactoring in Ruby, Bend JavaScript](https://youtu.be/oii16rgOOYw?t=258)
 
-- [Build Your Own Cloud Gaming PC using AWS EC2 services, Bend JavaScript](https://medium.com/@akirabrand/build-a-gaming-pc-w-aws-5e68e7cd207c)
+- [Build Your Own Cloud Gaming PC using AWS EC2 services, Bend JavaScript(Blog based on talk)](https://medium.com/@akirabrand/build-a-gaming-pc-w-aws-5e68e7cd207c)
 
 - [Learning How to Learn, BendJS and Mintbean (Slide Deck)](https://drive.google.com/file/d/1wXzbtj0EqUaLefkG79ileZNS3KQw-Npo/view?usp=sharing)
 
@@ -52,7 +52,7 @@ A communal guide to connect and educate those working legally in the Psychedelic
 
 We are undergoing a massive redesign and rebuild of the Tripsitters website, and I'm lucky to be the development team lead. We're in a wonderful exploration phase right now, with an emphasis on leveraging the open web, leveraging incredible visual design, and encouraging and facilitating organic community involvement.
 
-[Check out our current website](https://www.tripsitters.com)
+[Check out our current website](https://www.tripsitters.org)
 
 ##### Haven
 
