@@ -32,7 +32,7 @@ I love teaching people what I've learned! Here's some talks where I do just that
 
 - [Learning How to Learn, BendJS and Mintbean (Slide Deck)](https://drive.google.com/file/d/1wXzbtj0EqUaLefkG79ileZNS3KQw-Npo/view?usp=sharing)
 
-- [From Rubyist to JavaScripter - My Pain, Your Gain, Boulder Ruby Group (Slide Deck)](https://drive.google.com/file/d/1Z0MPU8T9vfEkeVzlB-Y9HuNH2GbNNc77/view)
+- [From Rubyist to JavaScripter - My Pain, Your Gain, Boulder Ruby Group (Slide Deck)](https://www.slideshare.net/RuthBrand1/from-rubyist-to-javascriper-my-pain-your-gain)
 
 ### Stuff I've written
 
