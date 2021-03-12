@@ -46,8 +46,6 @@ I love teaching people what I've learned! Here's some talks where I do just that
 
 - [How to create a MySQL-Python connector, cursor, and run CRUD commands with MySQL](https://medium.com/@akirabrand/internship-day-four-command-line-queries-to-create-mysql-python-connector-cursor-and-run-crud-ce978d2f227f)
 
-### Works in progress
-
 #### Tripsitters
 
 A communal guide to connect and educate those working legally in the Psychedelic space with people interested in using Psychedelics for therapeutic care and enhancing well-being.
@@ -147,6 +145,10 @@ Postgres
 - [Decentralized Web Seattle](https://twitter.com/DwebSeattle)
 - [17 Blockchain Apps That are Transforming Society](https://blockgeeks.com/guides/blockchain-applications/)
 - [Keybase](keybase.io)
+
+### SCIENCE!
+
+- [This Week in Science - deliciously irreverent science education](https://www.twis.org/)
 
 ### Cool workflow/management Tools
 
