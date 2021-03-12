@@ -36,6 +36,8 @@ I love teaching people what I've learned! Here's some talks where I do just that
 
 ### Stuff I've written
 
+- [How to Set Up a JavaScript Project](https://dev.to/akiramakes/setting-up-a-javascript-project-137d)
+
 - [I Translated Big Scary Tech Terms So You Don't Have To](https://dev.to/akiramakes/i-translated-big-scary-tech-terms-to-human-so-you-don-t-have-to-23jk)
 
 - [How Scope Works and Why You Should Care](https://dev.to/akiramakes/how-scope-works-why-you-should-care-5ale)
