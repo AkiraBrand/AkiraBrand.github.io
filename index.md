@@ -126,14 +126,15 @@ Postgres
 
 - [Sinatra! Omg I <3 Sinatra](https://github.com/sinatra/sinatra)
 
-### Cool Fusions of Music and Tech
+### Cool Fusions of Music, Art and Tech
 
 - [Audio Mass](https://audiomass.co/)
 - [Make Your own Brian Eno Cover with Javascript](https://teropa.info/blog/2016/07/28/javascript-systems-music.html)
 - [Sketch, but with your ears (Python and Javascript)](https://earsketch.gatech.edu/landing/#/)
 - [Sonic Pi, a Ruby-based Synth](https://sonic-pi.net/)
 - [Tone.js, create interactive music in your browser](https://tonejs.github.io/)
-
+- [Paper.js, amazing data visualization and animation](http://paperjs.org/)
+- [P5, a JS library for creative coding(whaaat!)](https://p5js.org/)
 ### Decentralized Web Goodness
 
 - [Consensys Academy-Decentralized Web Bootcamp](https://consensys.net/academy/)
