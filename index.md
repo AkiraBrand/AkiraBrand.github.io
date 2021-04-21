@@ -26,6 +26,8 @@ I love to share, teach, and create, so here you'll find all kinds of tech resour
 
 I love teaching people what I've learned! Here's some talks where I do just that:
 
+- [From Rubyist To JavaScripter: A Self Taught Journey, Boulder Ruby Group](https://youtu.be/6JMS0vGG3kY)
+
 - [Refactoring in Ruby, Bend JavaScript](https://youtu.be/oii16rgOOYw?t=258)
 
 - [Build Your Own Cloud Gaming PC using AWS EC2 services, Bend JavaScript(Blog based on talk)](https://medium.com/@akirabrand/build-a-gaming-pc-w-aws-5e68e7cd207c)
