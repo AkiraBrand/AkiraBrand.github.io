@@ -151,15 +151,10 @@ Postgres
 - [17 Blockchain Apps That are Transforming Society](https://blockgeeks.com/guides/blockchain-applications/)
 - [Keybase](keybase.io)
 
-### SCIENCE!
-
-- [This Week in Science - deliciously irreverent science education](https://www.twis.org/)
-
 ### Cool workflow/management Tools
 
 - [Remote Retro](https://remoteretro.org/)
 - [Dev Docs, amazing documentation library for tons of languages](https://devdocs.io/)
-
 ### ALL the JS Runtime Environments!
 
 - [Babel](bableljs.io)
@@ -232,7 +227,7 @@ Postgres
 
 ### Supercharge your Workshops
 
-- [Liberating Structures: USE THESE. These are magic for classroom and workshop engagement.] (http://www.liberatingstructures.com/)
+- [Liberating Structures: USE THESE. These are magic for classroom and workshop engagement.](http://www.liberatingstructures.com/)
 
 ### Free Pics for your Blog
 
