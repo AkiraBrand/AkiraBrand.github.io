@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Home
+title: home
 ---
-
-### About Me
 
 Hi! I'm Akira!
 
-I'm a software developer. Right now, I'm working in Javascript, React, HTML/CSS, and I'm learning the joys of server-side JS w/ Express, Node and MongoDB. Someday I'll learn Typescript. Maybe someday I'll even learn Assembly.
+I'm a software developer. I currently work in DevRel at FusionAuth. You can find me giving all sorts of talks on all things auth and cybersecurity, as well as educating devs on how their apps integrate with external auth servers.  
 
-I love to share, teach, and create, so here you'll find all kinds of tech resources as well as info on my passions: music, fermentation, leadership, growing my own food, art, theater, cultural explorations, and being outside.
+In my job, I write a lot of tutorials on integrating your app with our auth server in a lot of different languages, and also am learning Java and beginning my foray into working on our main app.
+
+In my spare time, I love to create things and make stuff, and teach other people how to do that too.  So here you'll find not only tech resources but lots of info on my various passions: music, growing mushrooms, fermentation, art, theater, math, accidentally lighting my garage on fire with a soldering iron and how you can avoid that mistake (jk), and renewable energy.
 
 ### Find me on the web
 
