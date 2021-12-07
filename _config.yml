@@ -1,10 +1,15 @@
 # Setup
 title: Akira
 tagline: Hack Of All Trades
-url: https://getpoole.com
+url: https://www.akira.brand.com
 paginate: 1
 baseurl: ""
 permalink: pretty
+
+#Build settings
+theme: minima
+plugins:
+  - jekyll-feed
 
 # Gems
 plugins:
@@ -33,9 +38,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Akira Brand
+  url: http://www.akirabrand.com
+  email: theakirati@gmail.com
 
 # Custom vars
 version: 3.0.0

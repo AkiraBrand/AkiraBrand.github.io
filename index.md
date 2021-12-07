@@ -3,13 +3,15 @@ layout: default
 title: home
 ---
 
-Hi! I'm Akira!
+Hi! I'm Akira! Welcome to my digital garden!
 
-I'm a software developer. I currently work in DevRel at FusionAuth. You can find me giving all sorts of talks on all things auth and cybersecurity, as well as educating devs on how their apps integrate with external auth servers.  
+I'm a software developer and developer advocate. I currently work in DevRel at [FusionAuth](https://fusionauth.io). You can find me giving all sorts of talks on all things auth, integrating with external auth servers, and a smattering of cybersecurity topics for good measure.
 
-In my job, I write a lot of tutorials on integrating your app with our auth server in a lot of different languages, and also am learning Java and beginning my foray into working on our main app.
+The languages I'm currently working with are mainly JavaScript and all that that entails, but I'm also learning a bit of Java. Lastly, and, as always, I'm having fun (and sometimes pain!) building this site with Jekyll and Ruby.
 
-In my spare time, I love to create things and make stuff, and teach other people how to do that too.  So here you'll find not only tech resources but lots of info on my various passions: music, growing mushrooms, fermentation, art, theater, math, accidentally lighting my garage on fire with a soldering iron and how you can avoid that mistake (jk), and renewable energy.
+In my spare time, I love to create, write, garden, and make music.  Another one of my passions is to teach other people what I've learned...and I'm constantly learning!
+
+ Here you'll find not only tech resources but lots of info on my various passions: music, growing mushrooms, fermentation, art, theater, math, accidentally lighting my garage on fire with a soldering iron and how you can avoid that mistake (jk), and renewable energy.
 
 ### Find me on the web
 
@@ -26,6 +28,8 @@ In my spare time, I love to create things and make stuff, and teach other people
 
 I love teaching people what I've learned! Here's some talks where I do just that:
 
+- [JWTs: What JavaScript Developers Need to Know, UtahJS conference](https://www.youtube.com/watch?v=D_sw_wDFM00)
+
 - [From Rubyist To JavaScripter: A Self Taught Journey, Boulder Ruby Group](https://youtu.be/6JMS0vGG3kY)
 
 - [Refactoring in Ruby, Bend JavaScript](https://youtu.be/oii16rgOOYw?t=258)
@@ -37,6 +41,8 @@ I love teaching people what I've learned! Here's some talks where I do just that
 - [From Rubyist to JavaScripter - My Pain, Your Gain, Boulder Ruby Group (Slide Deck)](https://www.slideshare.net/RuthBrand1/from-rubyist-to-javascriper-my-pain-your-gain)
 
 ### Stuff I've written
+
+- [How to Use OAuth to add Authentication to your React App](https://fusionauth.io/blog/2021/11/11/how-to-authenticate-your-react-app/)
 
 - [How to Set Up a JavaScript Project](https://dev.to/akiramakes/setting-up-a-javascript-project-137d)
 
@@ -155,8 +161,8 @@ Postgres
 
 - [Remote Retro](https://remoteretro.org/)
 - [Dev Docs, amazing documentation library for tons of languages](https://devdocs.io/)
-### ALL the JS Runtime Environments!
 
+### ALL the JS Runtime Environments!
 - [Babel](bableljs.io)
 - [Repl](https://repl.it/~)
 - [RunJS](https://runjs.dev/)
@@ -197,23 +203,6 @@ Postgres
 
 - [Oh Shit, Git!](https://ohshitgit.com/)
 
-### Project Inspiration
-
-- [Major League Hacking](https://mlh.io/)
-- [Major Leauge Hacking Felloship](https://fellowship.mlh.io/)
-- [Sideshow](https://thesideshow.org/)x
-
-### The Best Blogs, Jerry, The Best!
-
-- [swyx](https://www.swyx.io/)
-- [Josh.Works](https://josh.works/)
-- [Manuel Matuzović](https://www.matuzo.at/til/)
-- [Code Cartoons](https://code-cartoons.com/)
-- [Dan Abrimov](https://overreacted.io/)
-- [Twirling Tech Goddess](https://www.youtube.com/watch?v=9pQmwvn147I)
-- [Joel Hooks](https://joelhooks.com/)
-- [Debugging theory & Practice](https://medium.com/@dnsimple/improve-your-dev-and-ops-skills-with-troubleshooting-theory-68f7d8718e97)
-
 ### Supercharge Your Learning
 
 - [Zettlekasten, aka strategic index cards](https://zettelkasten.de/posts/zettelkasten-improves-thinking-writing/)
@@ -242,24 +231,35 @@ Postgres
 - [Grow them on Straw! (Medium)](https://blog.freshcapmushrooms.com/learn/grow-at-home-how-to-grow-mushrooms-at-home-using-straw-logs/)
 - [Grow them on logs! (Hard)](https://mushroommountain.com/new-to-growing-mushrooms/)
 
-### Places to Write
+### Places to Write for $$$
 
-If you like to write as much as I do, here are the places I've found who are currently accepting applications for contributors
+If you like to write as much as I do, here are the places I've found who are currently accepting applications for contributors. Sometimes, they will even pay you!
 
 - [Twilio](https://docs.google.com/forms/d/e/1FAIpQLSefDUKl2v5vOx1lLOyqAEgFXjFwcf2Jwk_rkL4Yq9wK2v25-A/viewform)
 - [We Watch talks](https://github.com/amorriscode/wewatch.tech)
 - [CSS Tricks](https://css-tricks.com/guest-posting/)
+- [Letters to a New Developer](https://letterstoanewdeveloper.com/)
+- [FusionAuth Blog Tutorials - ask me or Dan Moore about it!](fusionauth.io)
 
-### Wanna Teach?
+### Read a Book!
+- [The Ten Equations that Rule the World by David Sumpter](https://www.amazon.com/Ten-Equations-that-Rule-World-ebook/dp/B07Z78T7WJ)
+- [Godel, Escher, Bach: An Eternal Golden Braid by Douglas Hofstadter](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)
+- [How to Prepare for Climate Change](https://www.abebooks.com/Prepare-Climate-Change-Practical-Guide-Surviving/30953255876/bd?cm_mmc=ggl-_-US_Shopp_Trade-_-product_id=COM9781982134518USED-_-keyword=)
+- [Braiding Sweetgrass](https://blackwells.co.uk/bookshop/product/9780141991955?gC=098f6bcd4)
 
-Well then, start teaching! Make a screencast and submit it to these places!
+### Project Inspiration
 
-- [Egghead](https://howtoegghead.com/)
+- [Major League Hacking](https://mlh.io/)
+- [Major Leauge Hacking Felloship](https://fellowship.mlh.io/)
+- [Sideshow](https://thesideshow.org/)x
 
-### Masterful Music
+### The Best Blogs, Jerry, The Best!
 
-- ["Requiem" from the 1988 film, "Akira"](https://www.youtube.com/watch?v=YKvtbH8qUWU)
-
-### Questions to figure out
-
-- [Whats up with underscore functions?](https://underscorejs.org/#groupBy)
+- [swyx](https://www.swyx.io/)
+- [Josh.Works](https://josh.works/)
+- [Manuel Matuzović](https://www.matuzo.at/til/)
+- [Code Cartoons](https://code-cartoons.com/)
+- [Dan Abrimov](https://overreacted.io/)
+- [Twirling Tech Goddess](https://www.youtube.com/watch?v=9pQmwvn147I)
+- [Joel Hooks](https://joelhooks.com/)
+- [Debugging theory & Practice](https://medium.com/@dnsimple/improve-your-dev-and-ops-skills-with-troubleshooting-theory-68f7d8718e97)
