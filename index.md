@@ -3,15 +3,15 @@ layout: default
 title: home
 ---
 
-Hi! I'm Akira! Welcome to my digital garden!
+Hello and welcome! My name is Akira, welcome to my digital garden!
 
-I'm a software developer and developer advocate. I currently work in DevRel at [FusionAuth](https://fusionauth.io). You can find me giving all sorts of talks on all things auth, integrating with external auth servers, and a smattering of cybersecurity topics for good measure.
+I'm a developer advocate and musician. I currently work in DevRel at [Bright Security](https://brightsec.com/), bringing cybersecurity tools like DAST scanners to devs to empower them to secure their software.
 
-The languages I'm currently working with are mainly JavaScript and all that that entails, but I'm also learning a bit of Java. Lastly, and, as always, I'm having fun (and sometimes pain!) building this site with Jekyll and Ruby.
+In my spare time, I love to garden, cook, and grow gourmet mushrooms in my basement :)
 
-In my spare time, I love to create, write, garden, and make music.  Another one of my passions is to teach other people what I've learned...and I'm constantly learning!
+One of my *raison d'etre* is to teach other people what I'm learning..and I'm constantly learning!
 
- Here you'll find not only tech resources but lots of info on my various passions: music, growing mushrooms, fermentation, art, theater, math, accidentally lighting my garage on fire with a soldering iron and how you can avoid that mistake (jk), and renewable energy.
+Here you'll find not only tech resources but lots of info on my various passions: music, growing mushrooms, fermentation, art, theater, math, accidentally lighting my garage on fire with a soldering iron and how you can avoid that mistake (jk), and renewable energy.
 
 ### Find me on the web
 
@@ -56,27 +56,17 @@ I love teaching people what I've learned! Here's some talks where I do just that
 
 - [How to create a MySQL-Python connector, cursor, and run CRUD commands with MySQL](https://medium.com/@akirabrand/internship-day-four-command-line-queries-to-create-mysql-python-connector-cursor-and-run-crud-ce978d2f227f)
 
+### CyberSecurity (infosec) resources
+
+- [OWASP](https://owasp.org/)
+
+### Some of my favorite projects I've worked on
+
 #### Tripsitters
 
 A communal guide to connect and educate those working legally in the Psychedelic space with people interested in using Psychedelics for therapeutic care and enhancing well-being.
 
-We are undergoing a massive redesign and rebuild of the Tripsitters website, and I'm lucky to be the development team lead. We're in a wonderful exploration phase right now, with an emphasis on leveraging the open web, leveraging incredible visual design, and encouraging and facilitating organic community involvement.
-
 [Check out our current website](https://www.tripsitters.org)
-
-##### Haven
-
-Alarmed by the steep uptick in domestic violence calls since the Covid-19 lockdown, myself and some friends are developing a secure web app to quickly match domestic violence victims with appropriate community resources based on their individual situation.
-
-[Check Out the GitHub Repo](https://github.com/Haven-App/haven-backend)
-
-Tech stack:
-
-NodeJS  
-Express  
-HTML/CSS  
-VanillaJS  
-Postgres
 
 ### Fun Ideas for Workshops
 
@@ -85,6 +75,7 @@ Postgres
 - Build your own personal site with Jekyll
 - Build a 3d photo gallery w/ parallax.js
 - Debugging workshop
+- Scan an OSS project with a DAST and fix the bugs
 
 ### Fun Ideas for Lightning Talks
 
@@ -128,10 +119,6 @@ Postgres
 
 - [NodeJS](https://github.com/nodejs/nodejs.dev)
 
-- [Mintbean CLI](https://github.com/Mintbean/mintbean-cli/issues?q=is%3Aopen+is%3Aissue)
-
-- [We Watch Talks](https://github.com/amorriscode/wewatch.tech)
-
 - [Sinatra! Omg I <3 Sinatra](https://github.com/sinatra/sinatra)
 
 ### Cool Fusions of Music, Art and Tech
@@ -143,6 +130,7 @@ Postgres
 - [Tone.js, create interactive music in your browser](https://tonejs.github.io/)
 - [Paper.js, amazing data visualization and animation](http://paperjs.org/)
 - [P5, a JS library for creative coding(whaaat!)](https://p5js.org/)
+
 ### Decentralized Web Goodness
 
 - [Consensys Academy-Decentralized Web Bootcamp](https://consensys.net/academy/)
